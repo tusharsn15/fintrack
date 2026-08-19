@@ -1,0 +1,10 @@
+[
+  {"id":"1","name":"Salary","category":"Salary","type":"income","amount":50000,"date":"2026-08-18","description":"Monthly salary credit"},
+  {"id":"2","name":"Food","category":"Food","type":"expense","amount":450,"date":"2026-08-17","description":"Lunch and coffee"},
+  {"id":"3","name":"Shopping","category":"Shopping","type":"expense","amount":2500,"date":"2026-08-16","description":"Weekend essentials"},
+  {"id":"4","name":"Transport","category":"Transport","type":"expense","amount":300,"date":"2026-08-15","description":"Metro and cab rides"},
+  {"id":"5","name":"Freelance project","category":"Other","type":"income","amount":25000,"date":"2026-08-12","description":"Website design payment"},
+  {"id":"6","name":"Electricity bill","category":"Bills","type":"expense","amount":1800,"date":"2026-08-10","description":"August electricity bill"},
+  {"id":"7","name":"Online course","category":"Education","type":"expense","amount":3200,"date":"2026-08-05","description":"Frontend development course"},
+  {"id":"8","name":"Movie night","category":"Entertainment","type":"expense","amount":850,"date":"2026-08-03","description":"Tickets and snacks"}
+]
